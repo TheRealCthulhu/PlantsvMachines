@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "plants_v_machines:australium_nugget"
+    }
+  },
+  "result": {
+    "item": "plants_v_machines:australium_ingot"
+  }
+}

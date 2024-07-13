@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 0.7,
+  "group": "australium_nugget",
+  "ingredient": {
+    "item": "plants_v_machines:raw_australium"
+  },
+  "result": "plants_v_machines:australium_nugget"
+}

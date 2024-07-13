@@ -1,0 +1,21 @@
+{
+  "item.plants_v_machines.australium_ingot": "Australium Ingot",
+  "item.plants_v_machines.raw_australium": "Raw Australium",
+  "item.plants_v_machines.australium_nugget": "Australium Nugget",
+  "item.plants_v_machines.bologna_sausage": "Bologna Sausage",
+
+  "item.plants_v_machines.australium_detector": "Australium Detector",
+
+  "block.plants_v_machines.australium_block": "Block of Australium",
+  "block.plants_v_machines.deepslate_australium_ore": "Deepslate Australium Ore",
+
+  "block.plants_v_machines.australium_diffuser": "Australium Diffuser",
+
+  "item.plants_v_machines.tomato": "Tomato",
+  "item.plants_v_machines.lettuce": "Lettuce",
+  "item.plants_v_machines.olive": "Olive",
+  "item.plants_v_machines.bologna": "Bologna",
+  "item.plants_v_machines.sandvich": "Sandvich",
+
+  "creativetab.pvm_tab": "Plants V Machines"
+}

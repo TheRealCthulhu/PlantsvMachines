@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "plants_v_machines:block/australium_diffuser"
+  }
+}
