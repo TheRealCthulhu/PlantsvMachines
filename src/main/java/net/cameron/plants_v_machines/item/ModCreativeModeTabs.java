@@ -35,7 +35,12 @@ public class ModCreativeModeTabs {
                         pOutput.accept(ModItems.OLIVE.get());
                         pOutput.accept(ModItems.LETTUCE.get());
                         pOutput.accept(ModItems.SANDVICH.get());
+                        pOutput.accept(ModItems.SWISS_CHEESE.get());
                         pOutput.accept(ModItems.BOLOGNA.get());
+
+                        pOutput.accept(ModItems.SMALL_MONEY.get());
+                        pOutput.accept(ModItems.MEDIUM_MONEY.get());
+                        pOutput.accept(ModItems.LARGE_MONEY.get());
                     })
                     .build());
 

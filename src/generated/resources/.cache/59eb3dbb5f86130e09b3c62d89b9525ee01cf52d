@@ -1,0 +1,4 @@
+// 1.20.1	2024-07-14T18:17:41.7947921	Loot Tables
+f02dbb41ece760a43838a1c88b7b7cab54cb05b3 data/plants_v_machines/loot_tables/blocks/australium_block.json
+fe79c449a292fb7d4484798bdd2a75019c786c35 data/plants_v_machines/loot_tables/blocks/australium_diffuser.json
+12edb30d0ec423061dbdcdb73c57f2f1b2d79106 data/plants_v_machines/loot_tables/blocks/deepslate_australium_ore.json

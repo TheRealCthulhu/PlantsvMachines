@@ -15,7 +15,14 @@
   "item.plants_v_machines.lettuce": "Lettuce",
   "item.plants_v_machines.olive": "Olive",
   "item.plants_v_machines.bologna": "Bologna",
+  "item.plants_v_machines.swiss_cheese": "Swiss Cheese",
   "item.plants_v_machines.sandvich": "Sandvich",
+
+  "item.plants_v_machines.small_money": "Small Money Pile",
+  "item.plants_v_machines.medium_money": "Medium Money Pile",
+  "item.plants_v_machines.large_money": "Large Money Pile",
+
+  "tooltip.plants_v_machines.australium_detector.tooltip": "Finds Australium underground",
 
   "creativetab.pvm_tab": "Plants V Machines"
 }

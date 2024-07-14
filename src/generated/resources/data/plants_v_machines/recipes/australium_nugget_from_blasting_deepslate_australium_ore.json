@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 100,
+  "experience": 0.25,
+  "group": "australium",
+  "ingredient": {
+    "item": "plants_v_machines:deepslate_australium_ore"
+  },
+  "result": "plants_v_machines:australium_nugget"
+}

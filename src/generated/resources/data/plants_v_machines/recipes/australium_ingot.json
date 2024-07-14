@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "plants_v_machines:australium_block"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "item": "plants_v_machines:australium_ingot"
+  }
+}

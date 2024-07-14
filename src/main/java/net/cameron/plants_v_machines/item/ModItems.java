@@ -1,6 +1,7 @@
 package net.cameron.plants_v_machines.item;
 
 import net.cameron.plants_v_machines.PlantsVMachines;
+import net.cameron.plants_v_machines.block.custom.FuelItem;
 import net.cameron.plants_v_machines.item.custom.AustraliumDetectorItem;
 import net.minecraft.world.item.Item;
 import net.minecraftforge.eventbus.api.IEventBus;
@@ -35,6 +36,15 @@ public class ModItems {
             () -> new Item(new Item.Properties().food(ModFoods.BOLOGNA)));
     public static final RegistryObject<Item> SANDVICH = ITEMS.register("sandvich",
             () -> new Item(new Item.Properties().food(ModFoods.SANDVICH)));
+    public static final RegistryObject<Item> SWISS_CHEESE = ITEMS.register("swiss_cheese",
+            () -> new Item(new Item.Properties().food(ModFoods.SWISS_CHEESE)));
+
+    public static final RegistryObject<Item> SMALL_MONEY = ITEMS.register("small_money",
+            () -> new FuelItem(new Item.Properties(), 400));
+    public static final RegistryObject<Item> MEDIUM_MONEY = ITEMS.register("medium_money",
+            () -> new FuelItem(new Item.Properties(), 800));
+    public static final RegistryObject<Item> LARGE_MONEY = ITEMS.register("large_money",
+            () -> new FuelItem(new Item.Properties(), 1600));
 
 
     public static void register(IEventBus eventBus) {

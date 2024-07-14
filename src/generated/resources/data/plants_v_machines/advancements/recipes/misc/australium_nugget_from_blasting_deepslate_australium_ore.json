@@ -1,0 +1,35 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_deepslate_australium_ore": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "plants_v_machines:deepslate_australium_ore"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "plants_v_machines:australium_nugget_from_blasting_deepslate_australium_ore"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_deepslate_australium_ore",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "plants_v_machines:australium_nugget_from_blasting_deepslate_australium_ore"
+    ]
+  },
+  "sends_telemetry_event": false
+}
