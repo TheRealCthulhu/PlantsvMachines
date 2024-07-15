@@ -2,8 +2,8 @@ package net.cameron.plants_v_machines;
 
 import com.mojang.logging.LogUtils;
 import net.cameron.plants_v_machines.block.ModBlocks;
-import net.cameron.plants_v_machines.item.ModCreativeModeTabs;
-import net.cameron.plants_v_machines.item.ModItems;
+import net.cameron.plants_v_machines.item.custom.ModCreativeModeTabs;
+import net.cameron.plants_v_machines.item.custom.ModItems;
 import net.minecraft.world.item.CreativeModeTabs;
 import net.minecraftforge.api.distmarker.Dist;
 import net.minecraftforge.common.MinecraftForge;

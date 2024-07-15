@@ -1,11 +1,9 @@
 package net.cameron.plants_v_machines.datagen.loot;
 
 import net.cameron.plants_v_machines.block.ModBlocks;
-import net.cameron.plants_v_machines.item.ModItems;
+import net.cameron.plants_v_machines.item.custom.ModItems;
 import net.minecraft.data.loot.BlockLootSubProvider;
-import net.minecraft.world.flag.FeatureFlagSet;
 import net.minecraft.world.flag.FeatureFlags;
-import net.minecraft.world.item.Item;
 import net.minecraft.world.level.block.Block;
 import net.minecraftforge.registries.RegistryObject;
 

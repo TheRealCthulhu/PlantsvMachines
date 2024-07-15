@@ -1,7 +1,8 @@
-// 1.20.1	2024-07-14T18:17:41.7997799	Tags for minecraft:block mod id plants_v_machines
+// 1.20.1	2024-07-14T22:11:01.3044242	Tags for minecraft:block mod id plants_v_machines
 35133e95f1c8fdd7a1c21afcc231fc0bffefb9a8 data/forge/tags/blocks/needs_netherite_tool.json
 f534065941e0f75f1776ea512180f1d293365b02 data/minecraft/tags/blocks/mineable/pickaxe.json
 997f0580f34035f800a909df7126cb5fa05330e1 data/minecraft/tags/blocks/needs_diamond_tool.json
 35133e95f1c8fdd7a1c21afcc231fc0bffefb9a8 data/minecraft/tags/blocks/needs_iron_tool.json
 35133e95f1c8fdd7a1c21afcc231fc0bffefb9a8 data/minecraft/tags/blocks/needs_stone_tool.json
 9f928a32f33a10a6b7e0f3c0b16bf6f8fe706c54 data/plants_v_machines/tags/blocks/australium_detector_valuables.json
+bc9a071ef4b76e1ee4d6252a9f63c0b0c89932d7 data/plants_v_machines/tags/blocks/needs_australium_tool.json

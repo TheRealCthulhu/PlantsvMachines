@@ -2,7 +2,7 @@ package net.cameron.plants_v_machines.datagen;
 
 import net.cameron.plants_v_machines.PlantsVMachines;
 import net.cameron.plants_v_machines.block.ModBlocks;
-import net.cameron.plants_v_machines.item.ModItems;
+import net.cameron.plants_v_machines.item.custom.ModItems;
 import net.minecraft.data.PackOutput;
 import net.minecraft.data.recipes.*;
 import net.minecraft.world.item.crafting.AbstractCookingRecipe;

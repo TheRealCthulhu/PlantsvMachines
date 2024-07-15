@@ -1,4 +1,4 @@
-package net.cameron.plants_v_machines.item;
+package net.cameron.plants_v_machines.item.custom;
 
 import net.minecraft.world.effect.MobEffectInstance;
 import net.minecraft.world.effect.MobEffects;

@@ -39,5 +39,7 @@ public class ModBlockTagGenerator extends BlockTagsProvider {
 
         this.tag(Tags.Blocks.NEEDS_NETHERITE_TOOL)
                 ;
+        this.tag(ModTags.Blocks.NEEDS_AUSTRALIUM_TOOL)
+                .add(ModBlocks.AUSTRALIUM_DIFFUSER.get());
     }
 }

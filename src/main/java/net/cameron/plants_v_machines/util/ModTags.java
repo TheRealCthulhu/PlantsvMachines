@@ -11,6 +11,7 @@ import net.minecraft.world.level.block.Block;
 public class ModTags {
     public static class Blocks {
         public static final TagKey<Block> AUSTRALIUM_DETECTOR_VALUABLES = tag("australium_detector_valuables");
+        public static final TagKey<Block> NEEDS_AUSTRALIUM_TOOL = tag("needs_australium_tool");
 
         private static TagKey<Block> tag(String name) {
             return BlockTags.create(new ResourceLocation(PlantsVMachines.MOD_ID, name));

@@ -2,7 +2,7 @@ package net.cameron.plants_v_machines.block;
 
 import net.cameron.plants_v_machines.PlantsVMachines;
 import net.cameron.plants_v_machines.block.custom.AustraliumDiffuserBlock;
-import net.cameron.plants_v_machines.item.ModItems;
+import net.cameron.plants_v_machines.item.custom.ModItems;
 import net.minecraft.util.valueproviders.UniformInt;
 import net.minecraft.world.item.BlockItem;
 import net.minecraft.world.item.Item;

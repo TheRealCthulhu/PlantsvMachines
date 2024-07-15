@@ -1,7 +1,12 @@
-// 1.20.1	2024-07-14T18:17:41.7918013	Item Models: plants_v_machines
+// 1.20.1	2024-07-14T22:11:01.300433	Item Models: plants_v_machines
+28aa654a9fd5345b8eee7a168b5f2a87737a4624 assets/plants_v_machines/models/item/australium_axe.json
 4b01663b74f5daccd7801e69b6c1803666cf4c3c assets/plants_v_machines/models/item/australium_detector.json
+47e4755a7c4117fc1aa602e2c92a4582f3b4083f assets/plants_v_machines/models/item/australium_hoe.json
 abc391ab8d66e672ce2a714b62b7c4ae3e276729 assets/plants_v_machines/models/item/australium_ingot.json
 11aa7f6710a61c91b3dd91e355bd3b9cd5d5f897 assets/plants_v_machines/models/item/australium_nugget.json
+af53360b9626bb7a7bce2a15d0c3fb6c945a11b6 assets/plants_v_machines/models/item/australium_pickaxe.json
+0a28f16beb5dd89f9dafc9e303942192bf57c853 assets/plants_v_machines/models/item/australium_shovel.json
+76a211c9be9b0ed0a46334adcb8a5eeb4c4c21ab assets/plants_v_machines/models/item/australium_sword.json
 dcdad3b1058858d988f5f72e5a641e62b32acbad assets/plants_v_machines/models/item/bologna.json
 baad47f3110cb2736654835621d8743e785fe0c7 assets/plants_v_machines/models/item/bologna_sausage.json
 eab3dcc9cf4d2042f95b528ea73a8b12349fa8a7 assets/plants_v_machines/models/item/large_money.json

@@ -1,4 +1,4 @@
-package net.cameron.plants_v_machines.item;
+package net.cameron.plants_v_machines.item.custom;
 
 import net.cameron.plants_v_machines.PlantsVMachines;
 import net.cameron.plants_v_machines.block.ModBlocks;
@@ -41,6 +41,13 @@ public class ModCreativeModeTabs {
                         pOutput.accept(ModItems.SMALL_MONEY.get());
                         pOutput.accept(ModItems.MEDIUM_MONEY.get());
                         pOutput.accept(ModItems.LARGE_MONEY.get());
+
+                        pOutput.accept(ModItems.FRYING_PAN.get());
+                        pOutput.accept(ModItems.AUSTRALIUM_SHOVEL.get());
+                        pOutput.accept(ModItems.AUSTRALIUM_AXE.get());
+                        pOutput.accept(ModItems.AUSTRALIUM_PICKAXE.get());
+                        pOutput.accept(ModItems.AUSTRALIUM_SWORD.get());
+                        pOutput.accept(ModItems.AUSTRALIUM_HOE.get());
                     })
                     .build());
 
